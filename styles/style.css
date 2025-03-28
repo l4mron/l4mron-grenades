@@ -1,0 +1,20 @@
+:root {
+    --background-color: #121212;
+    --card-color: #1e1e1e;
+    --text-color: #ffffff;
+    --secondary-text-color: #c7c7c7;
+    
+    --primary-color: #ffcc00;
+    --accent-color: #ff5733;
+
+    --border-radius: 10px;
+    --padding: 12px;
+
+    --font-main: 'Rajdhani', sans-serif;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: var(--font-main);
+}
